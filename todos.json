@@ -1,18 +1,43 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Hello World",
       "deadline": "1900-01-01",
-      "completed": false,
+      "completed": true,
       "archived": false
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Hello Again World",
       "deadline": "2000-01-01",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": "2728",
+      "title": "zrobienie laboratoriow ai2 do d",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "id": "3c4b",
+      "title": "f",
+      "completed": true,
+      "archived": true
+    },
+    {
+      "title": "asewqdas",
       "completed": false,
-      "archived": false
+      "archived": false,
+      "id": "rki3Ag9"
+    },
+    {
+      "deadline": "2222-02-22",
+      "title": "asdas",
+      "completed": false,
+      "archived": false,
+      "id": "h2OFCgh"
     }
   ]
 }

@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=00000");
-}
-
-body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
@@ -27,3 +23,6 @@ button.primary {
  * {
    box-sizing: border-box;
  }
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
